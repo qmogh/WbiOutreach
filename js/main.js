@@ -108,7 +108,7 @@ jQuery(document).ready(function($) {
     }
   });
 
-  // Gallery - uses the magnific popup jQuery plugin
+  // Gallery - uses jQuery plugin
   $('.gallery-popup').magnificPopup({
     type: 'image',
     removalDelay: 300,
@@ -126,6 +126,6 @@ jQuery(document).ready(function($) {
     }
   });
 
-  // custom code
+
 
 });
