@@ -67,23 +67,21 @@ h1, h2, h3, h4, h5, h6 {
 #wbi {
   float: left;
   height: 50px;
-  position: absolute;
+  position: top;
 }
 
-#header #logo {
+#header #wbi {
   float: left;
 }
 
-#header #logo h1 {
+#header #wbi h1 {
   font-size: 35px;
   margin: -4px 0 0 0;
   padding: 0;
   line-height: 1;
   display: inline-block;
   font-family: "Montserrat", sans-serif;
-  font-weight: 300;
   letter-spacing: 3px;
-  text-transform: uppercase;
 }
 
 #header #logo h1 a, #header #logo h1 a:hover {
