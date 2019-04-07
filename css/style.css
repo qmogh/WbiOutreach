@@ -9,7 +9,7 @@ a {
   color: #ffaa00;
   transition: 0.5s;
 }
-
+#
 a:hover, a:active, a:focus {
   color: #f01800;
   outline: none;
@@ -62,6 +62,7 @@ h1, h2, h3, h4, h5, h6 {
   right: 0;
   transition: all 0.5s;
   z-index: 997;
+  /* ahahhahah i had to make the z index super highx */
 }
 
 #wbi {
@@ -70,11 +71,11 @@ h1, h2, h3, h4, h5, h6 {
   position: top;
 }
 
-#header #wbi {
+#header {
   float: left;
 }
 
-#header #wbi h1 {
+#header h1 {
   font-size: 35px;
   margin: -4px 0 0 0;
   padding: 0;
