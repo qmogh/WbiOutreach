@@ -65,10 +65,17 @@ h1, h2, h3, h4, h5, h6 {
   /* ahahhahah i had to make the z index super highx */
 }
 
+.header-fixed #wbi a img {
+    margin-top: -15px;
+    position: absolute;
+    float: left;
+    height: 50px;
+}
+
 #wbi {
   float: left;
   height: 50px;
-  position: top;
+  position: absolute;
 }
 
 #header {
